@@ -20,4 +20,4 @@ Ha frissítem a scriptet, itt egy másik fül fog megjelenni a telepítés helye
 
 ## Weblabel script
 <strong>Következő scriptek: </strong><br />
-[view_only_button](https://github.com/Mlaszlo95/weblabel_plugin/blob/main/view_created_by_me.js) - Weblabelhez tartozó script ami hozzáad egy gombot és lehet állítani rajta, hogy azokat mutassa amiket abban a böngészőben hozták létre. 3 napon belül törlődik a tárolt listának, az olyan régi elemeit. 
+[view_only_button](https://raw.githubusercontent.com/Mlaszlo95/weblabel_plugin/main/view_created_by_me.js) - Weblabelhez tartozó script ami hozzáad egy gombot és lehet állítani rajta, hogy azokat mutassa amiket abban a böngészőben hozták létre. 3 napon belül törlődik a tárolt listának, az olyan régi elemeit. 
