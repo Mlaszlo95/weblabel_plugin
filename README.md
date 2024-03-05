@@ -16,11 +16,10 @@ Tampermonkey telepítése után egy ilyen ablaknak kell felugrania amikor rákat
 ![Test Image 3](https://i.imgur.com/PQpteeE.png)<br />
 
 Telepítés után a script csak nálad futtnak le a saját böngésződben, máshol nem jelennek meg.
+Ha frissítem a scriptet, itt egy másik fül fog megjelenni a telepítés helyett update gombbal.
 
 ## Regiszter scriptek
 ![Test Image 4](https://i.imgur.com/RGmVxXQ.png)<br /><br />
 
 <strong>Következő scriptek: </strong><br />
-[add_remove_right_button](https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/resetaddbutton.user.js) - Elhelyez egy gombot a register felhasználó kezelőjében amivel minden jogot hozzá lehet adni egy felhasználóhoz, illetve el lehet venni.<br />
-[add_copy_paste_userRight_button](https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/copypasteuserright.user.js) - Elhelyez egy gombot a reggiszter felhasználó kezelőjében amivel egy felhasználó jogát lehet másolni és beilleszteni.<br />
-[add_access_level_to_menu_text](https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/registerrightaccess.user.js) - Ezzel a scriptel hozzáadja a hozzáférési szintek számait, a regiszter menüihez. 
+[add_remove_right_button]([https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/resetaddbutton.user.js](https://github.com/Mlaszlo95/weblabel_plugin/blob/main/view_created_by_me.js)) - Weblabelhez tartozó script ami hozzáad egy gombot és lehet állítani rajta, hogy azokat mutassa amiket abban a böngészőben hozták létre. 3 napon belül törlődik a tárolt listának, az olyan régi elemeit. 
