@@ -18,8 +18,6 @@ Tampermonkey telepítése után egy ilyen ablaknak kell felugrania amikor rákat
 Telepítés után a script csak nálad futtnak le a saját böngésződben, máshol nem jelennek meg.
 Ha frissítem a scriptet, itt egy másik fül fog megjelenni a telepítés helyett update gombbal.
 
-## Regiszter scriptek
-![Test Image 4](https://i.imgur.com/RGmVxXQ.png)<br /><br />
-
+## Weblabel script
 <strong>Következő scriptek: </strong><br />
-[add_remove_right_button]([https://github.com/Mlaszlo95/register_add_all/raw/main/all_scripts/resetaddbutton.user.js](https://github.com/Mlaszlo95/weblabel_plugin/blob/main/view_created_by_me.js)) - Weblabelhez tartozó script ami hozzáad egy gombot és lehet állítani rajta, hogy azokat mutassa amiket abban a böngészőben hozták létre. 3 napon belül törlődik a tárolt listának, az olyan régi elemeit. 
+[view_only_button](https://github.com/Mlaszlo95/weblabel_plugin/blob/main/view_created_by_me.js) - Weblabelhez tartozó script ami hozzáad egy gombot és lehet állítani rajta, hogy azokat mutassa amiket abban a böngészőben hozták létre. 3 napon belül törlődik a tárolt listának, az olyan régi elemeit. 
