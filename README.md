@@ -6,7 +6,7 @@ Itt megtaláljátok a leírást a tampermonkey scripthez, illetve telepítési l
 ## Tampermonkey telepítése
 
 Telepísd fel a tampermonkey-t következő linkekről:<br /><br />
- [opera](/https://addons.opera.com/en/extensions/details/tampermonkey-beta/) <br />
+ [opera](https://addons.opera.com/hu/extensions/details/tampermonkey-beta/) <br />
  [edge](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd?hl=hu) <br />
  [chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) <br />
  <br />
